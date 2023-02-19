@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Awesome-screensaver/static/css/main.12adde92.css",
+    "main.js": "/Awesome-screensaver/static/js/main.77dd02f6.js",
+    "index.html": "/Awesome-screensaver/index.html",
+    "main.12adde92.css.map": "/Awesome-screensaver/static/css/main.12adde92.css.map",
+    "main.77dd02f6.js.map": "/Awesome-screensaver/static/js/main.77dd02f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12adde92.css",
+    "static/js/main.77dd02f6.js"
+  ]
+}
